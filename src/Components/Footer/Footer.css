@@ -1,0 +1,12 @@
+.footer-bar {
+  position: absolute;
+  bottom: 0;
+  background-color: #bfbfbf;
+  width: 100%;
+  padding: 5px 5px;
+}
+
+.footer-tesxt{
+    margin:0;
+    text-align: end;
+}
